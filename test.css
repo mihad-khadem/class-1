@@ -8,6 +8,15 @@
     cursor: pointer;
 }
 
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /* Flex Direction */
+    /* flex-direction: ; */
+}
+
 .box{
     background-color: aquamarine;
     width: 150px;
